@@ -11,11 +11,11 @@ export default function NavBar() {
                 Pierino Juncos
             </div>
             <div className={`${Style.nav_items} ${isOpen ? Style.nav_items_open : ''}`}>
-                <a href="">Inicio</a>
-                <a href="">Quien soy</a>
-                <a href="">proyectos</a>
-                <a href="">Teconologias</a>
-                <a href="">Contacto</a>
+                <a href="#">Inicio</a>
+                <a href="#">Quien soy</a>
+                <a href="#">proyectos</a>
+                <a href="#">Teconologias</a>
+                <a href="#">Contacto</a>
             </div>
             <div className={Style.nav_toggle}>
                 <button onClick={()=> setIsOpen(!isOpen)}><FontAwesomeIcon icon={faBars} /></button>
