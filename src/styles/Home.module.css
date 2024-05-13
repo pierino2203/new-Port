@@ -67,6 +67,9 @@
     line-height: 35px;
 }
 @media (max-width: 768px) {
+.container {
+    max-height: 80vh;
+}
 .text {
     display: flex;
     /* justify-content: center; */
