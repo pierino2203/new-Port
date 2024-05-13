@@ -15,9 +15,9 @@ export default function Home() {
                 </div>
                 <div className={Style.text}>
                     <h1>I'm Pierino Juncos</h1>
-                    <p>Hola 👋👋 mi nombre es Pierino,soy Desarrollador full stack, graduado del bootcamp intensivo de Soy Henry.
+                    <p>Soy Pierino,soy Desarrollador full stack, graduado del bootcamp intensivo de Soy Henry.
 
-💻 Estoy en búsqueda de un trabajo que me ayude a seguir aprendiendo en este mundo que es muy amplio, estoy abierto a aprender nuevas tecnologías y reforzar las que ya se.</p>
+ Estoy en búsqueda de un trabajo que me ayude a seguir aprendiendo en este mundo que es muy amplio, estoy abierto a aprender nuevas tecnologías y reforzar las que ya se.</p>
                 </div>
             </div>
         </>

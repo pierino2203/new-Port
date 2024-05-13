@@ -58,9 +58,10 @@
   }
 .text h1{
     font-size: 35px;
+    margin-bottom: -10px;
 }
 .text p {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     width: 600px;
     height: 145px;
@@ -77,12 +78,13 @@
     flex-direction: column;
 }
 .text p{
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 364px;
     width: 90%;
     height: 110%;
     line-height: 35px;
     margin-left: 26px;
     margin-right: 25px;
+    font-weight: 400;
 }
 }
