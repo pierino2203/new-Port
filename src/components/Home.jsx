@@ -20,6 +20,9 @@ export default function Home() {
  Estoy en búsqueda de un trabajo que me ayude a seguir aprendiendo en este mundo que es muy amplio, estoy abierto a aprender nuevas tecnologías y reforzar las que ya se.</p>
                 </div>
             </div>
+            <div>
+                
+            </div>
         </>
     )
 } 
